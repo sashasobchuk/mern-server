@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://sashauser:LbwARvQY8sjgv6B9@mern-cloud.q7wc7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key 208374623bvfwjh34u7",
+  "filePath": "C:\\Users\\sasha\\OneDrive\\Робочий стіл\\mern5 на деплой\\server\\files",
+  "staticPath": "C:\\Users\\sasha\\OneDrive\\Робочий стіл\\mern5 на деплой\\server\\static"
+}
